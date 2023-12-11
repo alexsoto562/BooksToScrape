@@ -1,0 +1,6 @@
+Books to Scrape Requirements:
+
+Preparation:
+Before diving into the phases, please make sure you have the required Python packages
+installed. You can install them using pip:
+pip install: requests, BeautifulSoup4
